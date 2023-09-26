@@ -1,0 +1,17 @@
+/* MainPage.css */
+
+/* Apply custom styles for small screens */
+@media (max-width: 767px) {
+    /* Example styles for small screens */
+    .custom-table {
+        font-size: 14px;
+    }
+}
+
+/* Apply custom styles for medium and larger screens */
+@media (min-width: 768px) {
+    /* Example styles for medium and larger screens */
+    .custom-table {
+        font-size: 16px;
+    }
+}
